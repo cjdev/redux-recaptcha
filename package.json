@@ -1,0 +1,14 @@
+{
+  "name": "redux-recaptcha",
+  "version": "0.0.1",
+  "keywords": [
+    "redux",
+    "recaptcha",
+    "captcha",
+    "react"
+  ],
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-redux": "^4.4.5"
+  }
+}
