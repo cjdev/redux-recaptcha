@@ -4,7 +4,6 @@
   },
   "globals": {
     "grecaptcha": true,
-    "require": true,
     "window": true
   },
   "plugins": ["react"],
